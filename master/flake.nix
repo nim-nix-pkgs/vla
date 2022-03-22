@@ -9,7 +9,7 @@
   
   inputs.src-vla-master.flake = false;
   inputs.src-vla-master.owner = "bpr";
-  inputs.src-vla-master.ref   = "refs/heads/master";
+  inputs.src-vla-master.ref   = "master";
   inputs.src-vla-master.repo  = "vla";
   inputs.src-vla-master.type  = "github";
   
